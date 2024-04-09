@@ -8,6 +8,7 @@
 mod alloc_;
 mod array;
 mod cell;
+mod char;
 #[cfg(feature = "ip_in_core")]
 mod net;
 mod num;
